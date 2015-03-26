@@ -16,12 +16,12 @@ Array Instructions
     objects.  However, you can only use the `[]`, `size`, and `<<` methods on
     the array object.  Maybe you can draw some inspiration from Javascript:
 
-        ```javascript
-        // 'i++' here has the same effect as 'i += 1'
-        for(var i = 0; i < array.length(); i++) {
-          array[i].something();
-        }
-        ```
+    ```javascript
+    // 'i++' here has the same effect as 'i += 1'
+    for(var i = 0; i < array.length(); i++) {
+      array[i].something();
+    }
+    ```
 
 ### Tips
 
